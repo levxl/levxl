@@ -28,4 +28,4 @@ Skills: <br>
 • Data Bases: MySQL, SQLite, PostgreSQL. <br>
 • Version Control: Git, GitHub. <br> <br>
 
-My hobbies: astrophysics, philosophy, economics and investment, sports.
+My hobbies: astrophysics, philosophy, economics and investment, chess.
