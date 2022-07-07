@@ -26,4 +26,6 @@ Skills: <br>
 • Languages: JavaScript, Python, SQL. <br>
 • Frameworks and Libraries: ReactJS, Redux, Django, Aiogram. <br>
 • Data Bases: MySQL, SQLite, PostgreSQL. <br>
-• Version Control: Git, GitHub. <br> 
+• Version Control: Git, GitHub. <br> <br>
+
+My hobbies: astrophysics, philosophy, economics and investment, sports.
