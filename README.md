@@ -3,7 +3,7 @@
 
 <h4 align="center" >Software Engineer | Frontend Developer</h3>
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/quitter_17/">
+  <a href="">
     <img src=https://camo.githubusercontent.com/199ecd43013ba40b0aad986ff91390f4402be5293bf1f8a3893078f7fa0e9a6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4646303046462e7376673f267374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465>
   </a>
   <a href="">
